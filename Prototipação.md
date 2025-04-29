@@ -1,4 +1,4 @@
-Markdown
+
 # Protótipo da Plataforma — Projeto Social de Borborema
 
 Este protótipo foi desenvolvido no Figma para representar visualmente o funcionamento da plataforma proposta. As telas refletem as principais funcionalidades e fluxos de interação dos usuários.
