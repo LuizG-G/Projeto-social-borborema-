@@ -63,5 +63,3 @@ Empregos: ao procurar emprego, o usuário pode se inscrever em entrevistas, ativ
 
 
 Mostra as linhas de comunicação entre o sistema e os agentes externos (governo e empresas), além de deixar claro o que acontece dentro da aplicação e o que é resposta de fora.
-
-### link do figma: https://www.figma.com/design/STPfMCYCUoWzJ7lzGfkfja/Untitled?node-id=4-38&t=Dd7DdgaJME4X8XPH-1
