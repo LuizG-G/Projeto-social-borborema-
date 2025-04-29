@@ -1,4 +1,4 @@
- fluxo-navegacao-principal.
+ ## 1. Fluxo-navegacao-principal.
 
 Nome: Fluxo de Navegação Principal da Aplicação
 Tipo: Fluxograma de Decisão
@@ -19,7 +19,7 @@ Esse diagrama organiza bem os caminhos possíveis e suas consequências, o que a
 
 ---
 
-2. diagrama-casos-de-uso.
+## 2. Diagrama-casos-de-uso.
 
 Nome: Diagrama UML de Casos de Uso
 Este diagrama mostra os principais atores e ações que ocorrem dentro do sistema, focando em quem faz o quê.
@@ -48,7 +48,7 @@ As conexões indicam relacionamentos diretos entre os atores e os serviços pres
 
 ---
 
-3. fluxo-login-curso-emprego.
+## 3. Fluxo-login-curso-emprego.
 
 Nome: Fluxo Específico de Ações — Login, Cursos e Empregos
 Tipo: Fluxograma Funcional com Interações Externas
